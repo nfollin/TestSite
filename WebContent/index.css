@@ -1,0 +1,14 @@
+@CHARSET "ISO-8859-1";
+body{
+	background-color:black;
+	position:relative;
+	text-align:center;
+	background-image:url('http://images1.wikia.nocookie.net/__cb20110607180820/lotr/images/9/9b/TheOneRing.jpg');
+	background-repeat:no-repeat;
+	background-position:center center;
+	
+}
+H1{
+		color: white;
+		font-family:"Vivaldi";
+	}
